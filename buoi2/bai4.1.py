@@ -7,9 +7,5 @@ print(cau[11:])
 print(cau[::-1]) 
 
 cau = "Lap trinh Python rat thu vi"
-
-# In ra chuỗi đảo ngược
 print("Chuoi dao nguoc:", cau[::-1])
-
-# Kiểm tra xem cau có phải là Palindrome không
 print("Cau co phai la Palindrome khong?:", cau == cau[::-1])
