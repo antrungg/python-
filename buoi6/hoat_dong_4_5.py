@@ -37,3 +37,5 @@ for sv in sap_xep_theo_diem:
 print("--- Giam dan ---") 
 for sv in sap_xep_giam_dan: 
  print(sv["ten"], "-", sv["diem"])
+
+
